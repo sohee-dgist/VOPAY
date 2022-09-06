@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "vodka-payment",
+  "private_key_id": "bd9e8321f13e613f7230bafdac0cabc9173867fd",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDLzkn4CG9ifVm7\nIRiW85+xZU11UmKzq5w4MhZilAYNm7+IBOMQD03AfYlmKBZJBmmP1SwVO2zfWOqM\nKJBc1QZFJv7Pd0spB49Khk+683exEOtgHXgbFE5golRss4gae/gUeH5Hio42Op17\n6r5raukn3VJ5kK5bdug55PBJT/xVOBUFUBPQxhgVEcPZbisAZGM23IHQt2v64nV/\n02jTD/X2yerAH1UBGXylY+wcQ4rqq+Pol12e1cT7QgNMIl7WEg3PtAwGzv6Rnqed\nnpgxxLT2/QgSMomu8vBnbWNKSxA6HTXIdN33zdpSAG5hwLGAQjSbFFMHPkojBc6I\n+OBegzddAgMBAAECggEAJPax6zqqawBFmz8uLMicVMoFAauSy7frAjUxYqkqrOKr\n2wFZ5lKEPU53clAAdLelQyk8UNCBl0OS7J85yaB4PegL7HhcKSGeHzvbb5KTSYnC\nSuElZLHq4jNm4P0xyO3liV7uNk7+qn64i95AMY7HIUwOlo5DVULsbP2lCALqBtFt\nTA2HX1Tf/138CIEeopfMImR9/4vUca8Ror555hZbqxwCe1NNnEZIZ7+ZzF+fAqU/\ns3h+/5Mq8kvm7W0Ipeo84tNCVBMembShm6sx8wHJ6x2rKWhz5tIlmlPhauxA5620\nDzmsKUwxgSy9QYdfFqOJ3AL99xfxYolAqkFICNFlyQKBgQD1NwzXnh06irkhGwwR\nPkWicNGdTxK4b5R8+tGO+g+MM54WApah1BRh6M2YCO0PTyJnLSfaOuEctoi4bYtw\nJF1nuVrvs8XN+aiv9FlapmDmLdzrjtz3/exEJNnVpm3P/pr+ZvVEmqzs64ISjU3j\nGRAYsbtQOMEAv0Vm9uNRIGxr6QKBgQDUxP/4RCoOa3/ickm3mLn9iDuMU2JxA7nN\nV0Z85VeqsXgM3B8xywgztA2IM8Ol6uhsI2BtSTwfpWoLuwxU6CTlTGjRpY1yoZ2J\n20un8jRpJZsFFX734Cjp7CWT258C4mZ8sKYrdshsXIAVTLHl10/R7dztuDSZHdPA\nbcSNAYFrVQKBgHQCWEwF3LQefxkfb6UUveLs1u5CQ4wIFcrO6qdmvEZLAUZOcS8c\nY4wylFmSF3z/pjoDze/bnTZ1UNdX0/j460uwEEqI1VLuAxVDV6agQgWDuxmiG/4j\nHkza1kfSle8p9+/Vi8GqH5dyj7XxLeD7sXbNVt3MC9srokzlDoQJ/+FJAoGAcl6i\nqTUa1j16tKJydbom392HBNsdo1o5WeN8BE7TXPGgcmkwa3eTpRc33urUVC99WAN8\nJcKkCu7DniKhclKG4qq7/VVcPy4YnK3AcTqEabDJL2ZqpZtc4sEJQf1f8BD6vjPG\nXr6u5XCjeM+NINsoENQnWbEWtOePl3RpntIcWzECgYEAkNMRQVcYPDGyDbLYsHc3\nJpnVwUAiR801elX4H4oTP9hMWc8iqteoXo48/YFk6OzziNeqFMPjVyiC0ibPtTdp\nl20+shL09ob3O7N0AQNAnQrTijiJ5vKG3d0eSdkIH3HljAM6ZLCHSv50YGn7CyQh\nci6VmdGCIR2ToSOkOQEKYhQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "vodkapay@vodka-payment.iam.gserviceaccount.com",
+  "client_id": "103354149225135537038",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vodkapay%40vodka-payment.iam.gserviceaccount.com"
+}
